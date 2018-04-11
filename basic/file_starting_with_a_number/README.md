@@ -1,8 +1,8 @@
-+**  You have a new challenge! **
-+**  There are a mix of files in this directory **
-+**  that start with letters and numbers. Print **
-+**  the filenames (just the filenames) of all  **
-+**  files that start with a number recursively in the current directory. **
++ **You have a new challenge!**
++ **There are a mix of files in this directory**
++ **that start with letters and numbers. Print**
++ **the filenames (just the filenames) of all**
++ **files that start with a number recursively in the current directory.**
 
 > bash(0)> ls
 ```
