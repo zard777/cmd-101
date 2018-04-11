@@ -1,7 +1,7 @@
-+**  You have a new challenge! **
-+**  Print the file faces.txt, but only print the first instance of each ** 
-+**  duplicate line, even if the duplicates don't appear next to each other. **
-+**  Note that order matters so don't sort the lines before removing duplicates. **
++ **You have a new challenge!**
++ **Print the file faces.txt, but only print the first instance of each** 
++ **duplicate line, even if the duplicates don't appear next to each other.**
++ **Note that order matters so don't sort the lines before removing duplicates.**
   
 bash(0)> cat faces.txt
 ```
