@@ -1,8 +1,8 @@
 https://cmdchallenge.com/#/just_the_files
 
-+**  You have a new challenge! **
-+**  Print all files in the current directory **
-+**  recursively without the leading directory path. **
++ **You have a new challenge!**
++ **Print all files in the current directory**
++ **recursively without the leading directory path.**
  
 bash(0)> ls
 ```
