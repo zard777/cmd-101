@@ -1,6 +1,6 @@
-+**  You have a new challenge! **
-+**  The file random-numbers.txt contains a list **
-+**  of 100 random integers. Print the number of unique prime numbers contained in the file.  **
++ **You have a new challenge!**
++ **The file random-numbers.txt contains a list of 100 random integers.**
++ **Print the number of unique prime numbers contained in the file.**
 
 bash(0)> cat random-numbers.txt
 ```
