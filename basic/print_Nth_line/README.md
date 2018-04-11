@@ -1,6 +1,6 @@
 
-+**  You have a new challenge! **
-+**  Print the 25th line of the file faces.txt **
++ **You have a new challenge!**
++ **Print the 25th line of the file faces.txt**
 
 bash(1)> cat faces.txt
 ```
