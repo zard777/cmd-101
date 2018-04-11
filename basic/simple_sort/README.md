@@ -1,5 +1,5 @@
-+**  You have a new challenge! **
-+**  Print the contents of access.log sorted. **
++ **You have a new challenge!**
++ **Print the contents of access.log sorted.**
 
 
 bash(1)> cat access.log
