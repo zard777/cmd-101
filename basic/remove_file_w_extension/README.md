@@ -1,8 +1,6 @@
-+**  You have a new challenge! **
-+**  There are files in this challenge with **
-+**  different file extensions. **
-+**  Remove all files with the .doc extension **
-+**  recursively in the current working directory. **  
++ **You have a new challenge!**
++ **There are files in this challenge with different file extensions.**
++ **Remove all files with the .doc extension recursively in the current working directory.**  
 
 bash(0)> ls -la
 ```
