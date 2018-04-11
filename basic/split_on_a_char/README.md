@@ -1,7 +1,6 @@
-+**  You have a new challenge! **
-+**  The file split-me.txt contains a list of **
-+**  numbers separated by a ';' character. **
-+**  Split the numbers on the ';' character, one number per line. ** 
++**You have a new challenge!**
++**The file split-me.txt contains a list of numbers separated by a ';' character.**
++**Split the numbers on the ';' character, one number per line.** 
 
 bash(0)> cat split-me.txt
 
