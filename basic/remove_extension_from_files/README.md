@@ -1,6 +1,7 @@
-+**  You have a new challenge! **
-+**  Rename all files removing the extension from **
-+**  them in the current directory recursively. **  
++ **You have a new challenge!**
++ **Rename all files removing the extension from**
++ **them in the current directory recursively.**
+
 
 bash(0)> ls -la
 ```
